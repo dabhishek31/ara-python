@@ -2,12 +2,6 @@
 
 <br/>
 
-<h1>
-&nbsp;&nbsp;▄▀▀▄ █▀▀█ ▄▀▀▄<br/>
-&nbsp;&nbsp;█▄▄█ █▄▄▀ █▄▄█<br/>
-&nbsp;&nbsp;█  █ █  █ █  █
-</h1>
-
 <h1>ARA</h1>
 
 <h3>Autonomous Reasoning Agent</h3>
