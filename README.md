@@ -1,28 +1,35 @@
-<div align="center">
-
-<br/>
-
-<img src="assets/ara_logo_simple.png" width="600" alt="ARA Logo"/>
-
-<h1>ARA</h1>
-
-<h3>Autonomous Reasoning Agent</h3>
-
-<p><strong>The Python SDK for agents that think, plan, and decide for themselves.</strong></p>
-
-<br/>
+# ARA - Autonomous Reasoning Agent
 
 <a href="https://pypi.org/project/ara-python"><img src="https://img.shields.io/badge/pip_install-ara--python-7c3aed?style=for-the-badge" alt="PyPI"/></a>
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11+-3b82f6?style=for-the-badge" alt="Python 3.11+"/></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge" alt="MIT License"/></a>
 <img src="https://img.shields.io/badge/Status-Pre--release-f59e0b?style=for-the-badge" alt="Pre-release"/>
 <img src="https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge" alt="Discord"/>
+<div align="center">
 
-<br/><br/>
+<html>
+    <h2 align="center">
+      <img src="assets/ara_logo_simple.png" width="600" alt="ARA Logo"/>
+    </h2>
+    <h3 align="center">Autonomous Reasoning Agent</h3>
+
+<p align="center"><strong>The Python SDK for agents that think, plan, and decide for themselves.</strong></p>
+    <h3 align="center">
+      Important Links:
+      <a href="https://google.github.io/adk-docs/">Docs</a>,
+      <a href="https://github.com/google/adk-samples">Samples</a>,
+      <a href="https://github.com/google/adk-java">Java ADK</a>,
+      <a href="https://github.com/google/adk-go">Go ADK</a> &
+      <a href="https://github.com/google/adk-web">ADK Web</a>.
+    </h3>
+</html>
+
+
+<br/>
 
 <code>pip install ara-python</code>
 
-<br/><br/>
+<br/>
 
 </div>
 

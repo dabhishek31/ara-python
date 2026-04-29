@@ -52,3 +52,4 @@ ara_traces/
 .ipynb_checkpoints/
 *.ipynb
 requirements/*
+docs/*
