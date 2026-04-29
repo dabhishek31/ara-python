@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="assets/ara_logo_simple.png" width="200" alt="ARA Logo"/>
+<img src="assets/ara_logo_simple.png" width="600" alt="ARA Logo"/>
 
 <h1>ARA</h1>
 
