@@ -2,33 +2,31 @@
 
 <br/>
 
-```
-   █████╗ ██████╗  █████╗
-  ██╔══██╗██╔══██╗██╔══██╗
-  ███████║██████╔╝███████║
-  ██╔══██║██╔══██╗██╔══██║
-  ██║  ██║██║  ██║██║  ██║
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<h1>
+&nbsp;&nbsp;▄▀▀▄ █▀▀█ ▄▀▀▄<br/>
+&nbsp;&nbsp;█▄▄█ █▄▄▀ █▄▄█<br/>
+&nbsp;&nbsp;█  █ █  █ █  █
+</h1>
 
-# ARA
-### Autonomous Reasoning Agent
+<h1>ARA</h1>
 
-**The Python SDK for agents that think, plan, and decide for themselves.**
+<h3>Autonomous Reasoning Agent</h3>
+
+<p><strong>The Python SDK for agents that think, plan, and decide for themselves.</strong></p>
 
 <br/>
 
-[![PyPI](https://img.shields.io/badge/pip_install-ara--python-7c3aed?style=for-the-badge)](https://pypi.org/project/ara-python)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3b82f6?style=for-the-badge)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Pre--release-f59e0b?style=for-the-badge)]()
-[![Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge)]()
+<a href="https://pypi.org/project/ara-python"><img src="https://img.shields.io/badge/pip_install-ara--python-7c3aed?style=for-the-badge" alt="PyPI"/></a>
+<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11+-3b82f6?style=for-the-badge" alt="Python 3.11+"/></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge" alt="MIT License"/></a>
+<img src="https://img.shields.io/badge/Status-Pre--release-f59e0b?style=for-the-badge" alt="Pre-release"/>
+<img src="https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge" alt="Discord"/>
 
-<br/>
+<br/><br/>
 
-```bash
-pip install ara-python
-```
+<code>pip install ara-python</code>
+
+<br/><br/>
 
 </div>
 
