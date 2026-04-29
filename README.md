@@ -2,6 +2,8 @@
 
 <br/>
 
+<img src="assets/ara_logo.png" width="300" alt="ARA Logo"/>
+
 <h1>ARA</h1>
 
 <h3>Autonomous Reasoning Agent</h3>
